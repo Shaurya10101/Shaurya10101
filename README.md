@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently learning Machine Learning<br>📫 How to reach me shauryagupta8046@gmail.com<br>✨ My interests include Open Source, Web Dev, ML<br>🎓 I’m pursuing a Bachelor's degree in Information Technology<br>💬 Ask me about anything, I am happy to help<br>📝 See my Resume to get more info.</p>
+<p align="left">-🔭 I’m currently learning Machine Learning<br>
+ -📫 How to reach me **shauryagupta8046@gmail.com**<br>
+ -✨ My interests include Open Source, Web Dev, ML<br>
+ -🎓 I’m pursuing a Bachelor's degree in Information Technology<br>
+ -💬 Ask me about anything, I am happy to help<br>📝 See my [Resume](https://drive.google.com/file/d/1iY7PAqcjKKqAwbTPtWEOHXvy_aIOhCa_/view?usp=drive_link) to get more info.</p>
 
 ###
 
@@ -73,8 +77,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/shaurya10101/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Shaurya172" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
