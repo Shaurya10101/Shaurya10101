@@ -95,3 +95,7 @@
 </div>
 
 ###
+
+[![An image of @shaurya10101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaurya10101)](https://holopin.io/@shaurya10101)
+
+###
