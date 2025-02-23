@@ -14,9 +14,9 @@
 
 ###
 
-- 🔭 I’m currently learning Machine Learning
+- 🔭 I’m currently working with AI 
 - 📫 How to reach me: **shauryagupta8046@gmail.com**
-- ✨ My interests include Open Source, Web Dev, ML
+- ✨ My interests include Open Source,AI , Backend , ML 
 - 🎓 I’m pursuing a Bachelor's degree in Information Technology
 - 💬 Ask me about anything, I am happy to help
 - 📝 See my [Resume](https://drive.google.com/file/d/1iY7PAqcjKKqAwbTPtWEOHXvy_aIOhCa_/view?usp=drive_link) for more information.
